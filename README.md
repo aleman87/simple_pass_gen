@@ -5,4 +5,8 @@ run this in terminal:
 ``` 
 python simple_pass_gen.py 10
 ```
-where **10** is the length of the password you desire. All passwords will begin with a letter between a-z or A-Z. This password will include *all punctuation marks* and numbers between *0-9*. 
+where **10** is the length of the password you desire. All passwords will begin with a letter between a-z or A-Z. This password will include *all punctuation marks* and numbers between *0-9*. <br/>
+Sample output (for a password of length **10**):
+```
+y790C!G12r
+```
